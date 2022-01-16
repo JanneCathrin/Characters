@@ -1,0 +1,16 @@
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\bin\Debug\net5.0\characters.exe
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\bin\Debug\net5.0\characters.deps.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\bin\Debug\net5.0\characters.runtimeconfig.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\bin\Debug\net5.0\characters.runtimeconfig.dev.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\bin\Debug\net5.0\characters.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\bin\Debug\net5.0\ref\characters.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\bin\Debug\net5.0\characters.pdb
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\obj\Debug\net5.0\characters.csproj.AssemblyReference.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\obj\Debug\net5.0\characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\obj\Debug\net5.0\characters.AssemblyInfoInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\obj\Debug\net5.0\characters.AssemblyInfo.cs
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\obj\Debug\net5.0\characters.csproj.CoreCompileInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\obj\Debug\net5.0\characters.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\obj\Debug\net5.0\ref\characters.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\obj\Debug\net5.0\characters.pdb
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Characters\characters\obj\Debug\net5.0\characters.genruntimeconfig.cache
